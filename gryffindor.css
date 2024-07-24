@@ -1,0 +1,42 @@
+.header-gryffindor {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-gryffindor img {
+  width: 30px;
+  height: auto;
+}
+
+.hero-gryffindor {
+  align-items: center;
+  text-align: center;
+}
+
+.about-gryffindor {
+  display: flex;
+  justify-content: center;
+  background-image: url(././background.webp);
+  background-size: cover;
+  background-position: center;
+  min-height: calc(100vh - 70px);
+  background-repeat: no-repeat;
+}
+
+.about-gryffindor p {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: aliceblue;
+}
+
+.about-gryffindor h2 {
+  color: aliceblue;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.about-gryffindor-wrapper {
+  text-align: center;
+  width: 80%;
+  height: auto;
+}
