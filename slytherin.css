@@ -1,0 +1,44 @@
+.header-header-slytherin {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-slytherin img {
+  width: 30px;
+  height: auto;
+  padding-right: 20px;
+}
+
+.hero-slytherin {
+  align-items: center;
+  text-align: center;
+  padding-right: 20px;
+}
+
+.about-slytherin {
+  display: flex;
+  justify-content: center;
+  background-image: url(././background.webp);
+  background-size: cover;
+  background-position: center;
+  min-height: calc(100vh - 70px);
+  background-repeat: no-repeat;
+}
+
+.about-slytherin p {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: aliceblue;
+}
+
+.about-slytherin h2 {
+  color: aliceblue;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.about-slytherin-wrapper {
+  text-align: center;
+  width: 80%;
+  height: auto;
+}
